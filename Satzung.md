@@ -24,7 +24,7 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 
 1. die Abhaltung von geordneten Sport- und Spielübungen,
 2. die Durchführung von sportlichen Veranstaltungen,
-3. die Pflege und den Ausbau des Senioren- und Breitensports,
+3. die Pflege und den Ausbau des Jugend-, Senioren- und Breitensports,
 4. den Einsatz von sachgemäß vorgebildeten Übungsleitern sowie
 5. die Beschaffung, Erhaltung und Pflege von Sportanlagen und Sportgeräten.
 
@@ -42,7 +42,7 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 
 ## § 4 Erwerb der Mitgliedschaft
 
-(1) Die ordentliche Mitgliedschaft im Verein kann jede natürliche Person in Textform, z.B. per E-Mail, beantragen, die das 18. Lebensjahr vollendet hat. Ein Aufnahmeanspruch besteht nicht.
+(1) Die ordentliche Mitgliedschaft im Verein kann jede natürliche Person in Textform, z.B. per E-Mail, beantragen. Ein Aufnahmeanspruch besteht nicht.
 
 (2) Eine Fördermitgliedschaft können alle Personen beantragen, die die Ziele des Vereins unterstützen.
 
@@ -178,7 +178,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 
 (1) Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit der in § 14 (6) festgelegten Stimmenmehrheit beschlossen werden. Sofern die Mitgliederversammlung nichts anderes beschließt, sind die bisherigen Vorstandsmitglieder Liquidatoren des Vereins. Die vorstehenden Vorschriften gelten entsprechend für den Fall, dass der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.
 
-(2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an den "Förderverein der Fachschaft Digital Engineering an der Universität Potsdam e. V.", der es unmittelbar und ausschließlich für gemeinnützige, dieser Satzung entsprechende, Zwecke zu verwenden  hat.
+(2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an den "Förderverein der Fachschaft Digital Engineering an der Universität Potsdam e. V.", der es unmittelbar und ausschließlich für gemeinnützige, dieser Satzung entsprechende, Zwecke zu verwenden hat.
 
 ## § 16 Inkrafttreten
 
