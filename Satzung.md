@@ -18,7 +18,7 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 
 (1) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
-(2) Der Zweck des Vereins ist die Förderung des Sports.
+(2) Der Zweck des Vereins ist die Förderung des Sports, insbesondere die Ausprägung des sportlichen Charakters des **Bierballsports/Flunky-Ball-Sports** und dem damit verbundenen Wandel von einem Trinkspiel zu einer auf Wettkampf ausgerichteten Sportart.
 
 (3) Der Satzungszweck wird verwirklicht insbesondere durch
 
