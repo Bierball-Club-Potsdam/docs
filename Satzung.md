@@ -61,17 +61,7 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 
 (2) Die Mitglieder sind berechtigt, die Einrichtungen des Vereins zu benutzen und an dessen Veranstaltungen teilzunehmen.
 
-
-## § 6 Mitgliedsbeiträge
-
-(1) Es wird keine Aufnahmegebühr erhoben.
-
-(2) Von den ordentlichen Mitgliedern werden monatlich Mitgliedsbeiträge erhoben.
-
-(3) Von den Fördermitgliedern kann ein jährlicher Beitrag erhoben werden, welcher unabhängig vom Beitrittstermin jeweils für das Kalenderjahr erhoben wird. Über die Höhe des Beitrags entscheidet die Mitgliederversammlung.
-
-
-## § 7 Beendigung der Mitgliedschaft
+## § 6 Beendigung der Mitgliedschaft
 
 (1) Die Mitgliedschaft endet
 
@@ -84,7 +74,7 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 (3) Ein Ausschluss aus dem Verein ist nur bei wichtigem Grund zulässig. Über den Ausschluss entscheidet auf Antrag des Vorstands die Mitgliederversammlung mit einer Zweidrittelmehrheit der anwesenden Mitglieder. Der Vorstand hat seinen Antrag dem auszuschließenden Mitglied mindestens zwei Wochen vor der Versammlung in Textform, z.B. per E-Mail, mitzuteilen. Eine in Textform eingehende Stellungnahme des Mitglieds ist in der über den Ausschluss entscheidenden Versammlung zu verlesen. Der Ausschluss des Mitglieds wird mit der Beschlussfassung wirksam. Der Ausschluss wird dem Mitglied, wenn es bei Beschlussfassung nicht anwesend war, unverzüglich durch den Vorstand bekannt gemacht.
 
 
-## § 8 Organe des Vereins
+## § 7 Organe des Vereins
 
 Die Organe des Vereins sind
 
@@ -92,7 +82,7 @@ Die Organe des Vereins sind
 2. die Mitgliederversammlung.
 
 
-## § 9 Vorstand
+## § 8 Vorstand
 
 (1) Der Vorstand im Sinne des § 26 BGB besteht aus zwei gleichberechtigten vorsitzenden Personen und einer mit der Verwaltung der Finanzen beauftragten Person.
 
@@ -103,7 +93,7 @@ Die Organe des Vereins sind
 (4) Die Vertretungsmacht des Vorstands ist mit einer Wirkung gegen Dritte in der Weise beschränkt, dass für Rechtsgeschäfte zum Erwerb oder Verkauf, zur Belastung und zu allen sonstigen Verfügungen über Grundstücke oder grundstücksgleiche Rechte und zur Aufnahme von Krediten die Zustimmung der Mitgliederversammlung erforderlich ist.
 
 
-## § 10 Zuständigkeiten des Vorstands
+## § 9 Zuständigkeiten des Vorstands
 
 Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung einem anderen Vereinsorgan zugewiesen sind. Er hat vor allem folgende Aufgaben:
 
@@ -113,7 +103,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 4. Aufstellung eines Haushaltsplanes für jedes Geschäftsjahr, Buchführung und Erstellung eines Jahresberichts
 5. Abschluss und Kündigung von Arbeitsverträgen
 
-## § 11 Wahl und Amtszeit des Vorstands
+## § 10 Wahl und Amtszeit des Vorstands
 
 (1) Der Vorstand wird von der Mitgliederversammlung für die Dauer bis zur nächsten ordentlichen Mitgliederversammlung gewählt. Der Vorstand bleibt bis zur Neuwahl des Vorstands im Amt.
 
@@ -124,7 +114,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 (4) Das Amt eines Mitglieds des Vorstands endet mit dem Ausscheiden aus dem Verein. Scheidet ein Mitglied vor Ablauf der Amtszeit aus, wird innerhalb eines Monats durch eine einzuberufende Mitgliederversammlung ein Ersatzmitglied für den Rest der Amtszeit des ausgeschiedenen Mitglieds gewählt.
 
 
-## § 12 Beschlussfassung des Vorstands
+## § 11 Beschlussfassung des Vorstands
 
 (1) Der Vorstand fasst seine Beschlüsse in Vorstandssitzungen. Diese werden durch eine der beiden vorsitzenden Personen per E-Mail mit einer Frist von drei Tagen einberufen. Die einberufende Person leitet die Sitzung. Vorstandssitzungen sind beschlussfähig, wenn mindestens zwei Mitglieder des Vorstands anwesend sind.
 
@@ -133,7 +123,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 (3) Die Sitzungen sind zu protokollieren. Die Protokolle sollen Ort und Zeit der Sitzung, die Namen der teilnehmenden Personen, die gefassten Beschlüsse und deren Abstimmungsergebnisse enthalten. Die Protokolle sind von der Sitzungsleitung zu unterschreiben. Jedes Vereinsmitglied ist berechtigt, die Protokolle einzusehen.
 
 
-## § 13 Aufgaben und Einberufung der Mitgliederversammlung
+## § 12 Aufgaben und Einberufung der Mitgliederversammlung
 
 (1) Die Mitgliederversammlung hat folgende Aufgaben:
 
@@ -157,7 +147,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 (5) Die Tagesordnung wird vom Vorstand festgesetzt. Jedes Mitglied des Vereins kann bis zum Beginn der Mitgliederversammlung beantragen, dass weitere Angelegenheiten, nicht jedoch der Ausschluss von Mitgliedern, Satzungsänderungen oder die Auflösung des Vereins, nachträglich auf die Tagesordnung gesetzt werden. Über die Annahme der Anträge beschließt die Mitgliederversammlung.
 
 
-## § 14 Beschlussfassung der Mitgliederversammlung
+## § 13 Beschlussfassung der Mitgliederversammlung
 
 (1) Die Mitgliederversammlung ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder anwesend ist. Bei Beschlussunfähigkeit lädt der Vorstand umgehend zu einer zweiten Mitgliederversammlung mit gleicher Tagesordnung ein, die nach spätestens einem Monat tagt. Diese ist zu den in der Tagesordnung aufgeführten Punkten unabhängig von der Zahl der anwesenden Mitglieder beschlussfähig, wenn darauf mit der Einladung hingewiesen wird.
 
@@ -173,6 +163,15 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 
 (7) Über die Beschlüsse der Mitgliederversammlungen sind Protokolle zu führen, die von der jeweiligen Versammlungsleitung und der Protokollführung zu unterzeichnen sind. Jedes Vereinsmitglied ist berechtigt, die Protokolle einzusehen.
 
+## § 14 Finanzen
+
+(1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Schenkungen, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen.
+Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken.
+Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
+
+(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand.
+
+(3) Der gesamte Vorstand ist gegenüber der Mitgliederversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, woraufhin die Mitgliederversammlung über die Entlastung des Vorstands abzustimmen hat.
 
 ## § 15 Auflösung des Vereins
 
