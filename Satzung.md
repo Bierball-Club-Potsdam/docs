@@ -5,7 +5,7 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 
 ## § 1 Name, Sitz, Geschäftsjahr
 
-(1) Der Verein führt den Namen **"XXXXXXXXXXX"**, bzw. in der Kurzform **"XXX"**.
+(1) Der Verein führt den Namen "Bierball-Club Potsdam", bzw. in der Kurzform "BBC Potsdam".
 
 (2) Er soll in das Vereinsregister eingetragen werden. Nach der Eintragung führt er zu seinem Namen den Zusatz "e. V."
 
@@ -18,7 +18,7 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 
 (1) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
-(2) Der Zweck des Vereins ist die Förderung des Sports, insbesondere die Ausprägung des sportlichen Charakters des **Bierballsports/Flunky-Ball-Sports** und dem damit verbundenen Wandel von einem Trinkspiel zu einer auf Wettkampf ausgerichteten Sportart.
+(2) Der Zweck des Vereins ist die Förderung des Sports, insbesondere die Ausprägung des sportlichen Charakters des Bierballsports und dem damit verbundenen Wandel von einem Trinkspiel zu einer auf Wettkampf ausgerichteten Sportart.
 
 (3) Der Satzungszweck wird verwirklicht insbesondere durch
 
@@ -44,9 +44,9 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 
 (1) Die ordentliche Mitgliedschaft im Verein kann jede natürliche Person in Textform, z.B. per E-Mail, beantragen. Ein Aufnahmeanspruch besteht nicht.
 
-(2) Eine Fördermitgliedschaft können alle Personen beantragen, die die Ziele des Vereins unterstützen.
+(2) Eine Fördermitgliedschaft können alle Personen beantragen, die die Ziele des Vereins unterstützen. Fördermiglieder zählen nicht als Mitglieder des Vereins. Sie sind zu Mitgliederversammlungen einzuladen, haben aber kein Stimmrecht, wenn sie nicht auch ordentliche Mitglieder des Vereins sind.
 
-(3) Über den Aufnahmeantrag entscheidet der Vorstand durch Beschluss. Die Entscheidung ist der antragstellenden Person mit einer Begründung versehen mitzuteilen.
+(3) Über einen Aufnahmeantrag entscheidet der Vorstand durch Beschluss. Die Entscheidung ist der antragstellenden Person mit einer Begründung versehen mitzuteilen.
 
 (4) Mit dem Antrag auf Aufnahme wird für den Fall der Aufnahme die Satzung anerkannt.
 
