@@ -16,31 +16,14 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 
 ## § 2 Vereinszweck
 
-(1) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+(1) Der Zweck des Vereins ist die Förderung des Bierballsports.
 
-(2) Der Zweck des Vereins ist die Förderung des Sports, insbesondere die Ausprägung des sportlichen Charakters des Bierballsports und dem damit verbundenen Wandel von einem Trinkspiel zu einer auf Wettkampf ausgerichteten Sportart.
+(2) Der Satzungszweck wird verwirklicht insbesondere durch
 
-(3) Der Satzungszweck wird verwirklicht insbesondere durch
+1. die Beschaffung, Erhaltung und Pflege von Sportanlagen und Sportgeräten sowie
+2. die Durchführung von sportlichen Veranstaltungen.
 
-1. die Abhaltung von geordneten Sport- und Spielübungen,
-2. die Durchführung von sportlichen Veranstaltungen,
-3. die Pflege und den Ausbau des Jugend-, Senioren- und Breitensports,
-4. den Einsatz von sachgemäß vorgebildeten Übungsleitern sowie
-5. die Beschaffung, Erhaltung und Pflege von Sportanlagen und Sportgeräten.
-
-
-## § 3 Gemeinnützigkeit
-
-(1) Der Verein ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
-
-(2) Mittel des Vereins dürfen nur für satzungsgemäße Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Sie haben bei ihrem Ausscheiden keine Ansprüche an das Vereinsvermögen.
-
-(3) Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
-
-(4) Der Verein setzt keine Mittel zur Unterstützung politischer Parteien oder religiöser Gruppen ein.
-
-
-## § 4 Erwerb der Mitgliedschaft
+## § 3 Erwerb der Mitgliedschaft
 
 (1) Die ordentliche Mitgliedschaft im Verein kann jede natürliche Person in Textform, z.B. per E-Mail, beantragen. Ein Aufnahmeanspruch besteht nicht.
 
@@ -55,13 +38,13 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 (6) Die Mitgliederversammlung kann über den in (1) benannten Personenkreis hinaus Personen zu Ehrenmitgliedern ernennen. Ehrenmitglieder zählen nicht als Mitglieder des Vereins. Sie sind zu Mitgliederversammlungen einzuladen, haben aber kein Stimmrecht, wenn sie nicht auch ordentliche Mitglieder des Vereins sind. Ehrenmitglieder sind von Mitgliedsbeiträgen befreit.
 
 
-## § 5 Rechte und Pflichten der Mitglieder
+## § 4 Rechte und Pflichten der Mitglieder
 
 (1) Die Mitglieder sind verpflichtet, die Ziele und Interessen des Vereins zu unterstützen sowie Beschlüsse und Anordnungen der Vereinsorgane zu befolgen.
 
 (2) Die Mitglieder sind berechtigt, die Einrichtungen des Vereins zu benutzen und an dessen Veranstaltungen teilzunehmen.
 
-## § 6 Beendigung der Mitgliedschaft
+## § 5 Beendigung der Mitgliedschaft
 
 (1) Die Mitgliedschaft endet
 
@@ -74,7 +57,7 @@ Diese Satzung wurde von der Gründungsversammlung am **XX.XX.XXXX** beschlossen.
 (3) Ein Ausschluss aus dem Verein ist nur bei wichtigem Grund zulässig. Über den Ausschluss entscheidet auf Antrag des Vorstands die Mitgliederversammlung mit einer Zweidrittelmehrheit der anwesenden Mitglieder. Der Vorstand hat seinen Antrag dem auszuschließenden Mitglied mindestens zwei Wochen vor der Versammlung in Textform, z.B. per E-Mail, mitzuteilen. Eine in Textform eingehende Stellungnahme des Mitglieds ist in der über den Ausschluss entscheidenden Versammlung zu verlesen. Der Ausschluss des Mitglieds wird mit der Beschlussfassung wirksam. Der Ausschluss wird dem Mitglied, wenn es bei Beschlussfassung nicht anwesend war, unverzüglich durch den Vorstand bekannt gemacht.
 
 
-## § 7 Organe des Vereins
+## § 6 Organe des Vereins
 
 Die Organe des Vereins sind
 
@@ -82,7 +65,7 @@ Die Organe des Vereins sind
 2. die Mitgliederversammlung.
 
 
-## § 8 Vorstand
+## § 7 Vorstand
 
 (1) Der Vorstand im Sinne des § 26 BGB besteht aus zwei gleichberechtigten vorsitzenden Personen und einer mit der Verwaltung der Finanzen beauftragten Person.
 
@@ -93,7 +76,7 @@ Die Organe des Vereins sind
 (4) Die Vertretungsmacht des Vorstands ist mit einer Wirkung gegen Dritte in der Weise beschränkt, dass für Rechtsgeschäfte zum Erwerb oder Verkauf, zur Belastung und zu allen sonstigen Verfügungen über Grundstücke oder grundstücksgleiche Rechte und zur Aufnahme von Krediten die Zustimmung der Mitgliederversammlung erforderlich ist.
 
 
-## § 9 Zuständigkeiten des Vorstands
+## § 8 Zuständigkeiten des Vorstands
 
 Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung einem anderen Vereinsorgan zugewiesen sind. Er hat vor allem folgende Aufgaben:
 
@@ -103,7 +86,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 4. Aufstellung eines Haushaltsplanes für jedes Geschäftsjahr, Buchführung und Erstellung eines Jahresberichts
 5. Abschluss und Kündigung von Arbeitsverträgen
 
-## § 10 Wahl und Amtszeit des Vorstands
+## § 9 Wahl und Amtszeit des Vorstands
 
 (1) Der Vorstand wird von der Mitgliederversammlung für die Dauer bis zur nächsten ordentlichen Mitgliederversammlung gewählt. Der Vorstand bleibt bis zur Neuwahl des Vorstands im Amt.
 
@@ -114,7 +97,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 (4) Das Amt eines Mitglieds des Vorstands endet mit dem Ausscheiden aus dem Verein. Scheidet ein Mitglied vor Ablauf der Amtszeit aus, wird innerhalb eines Monats durch eine einzuberufende Mitgliederversammlung ein Ersatzmitglied für den Rest der Amtszeit des ausgeschiedenen Mitglieds gewählt.
 
 
-## § 11 Beschlussfassung des Vorstands
+## § 10 Beschlussfassung des Vorstands
 
 (1) Der Vorstand fasst seine Beschlüsse in Vorstandssitzungen. Diese werden durch eine der beiden vorsitzenden Personen per E-Mail mit einer Frist von drei Tagen einberufen. Die einberufende Person leitet die Sitzung. Vorstandssitzungen sind beschlussfähig, wenn mindestens zwei Mitglieder des Vorstands anwesend sind.
 
@@ -123,7 +106,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 (3) Die Sitzungen sind zu protokollieren. Die Protokolle sollen Ort und Zeit der Sitzung, die Namen der teilnehmenden Personen, die gefassten Beschlüsse und deren Abstimmungsergebnisse enthalten. Die Protokolle sind von der Sitzungsleitung zu unterschreiben. Jedes Vereinsmitglied ist berechtigt, die Protokolle einzusehen.
 
 
-## § 12 Aufgaben und Einberufung der Mitgliederversammlung
+## § 11 Aufgaben und Einberufung der Mitgliederversammlung
 
 (1) Die Mitgliederversammlung hat folgende Aufgaben:
 
@@ -147,7 +130,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 (5) Die Tagesordnung wird vom Vorstand festgesetzt. Jedes Mitglied des Vereins kann bis zum Beginn der Mitgliederversammlung beantragen, dass weitere Angelegenheiten, nicht jedoch der Ausschluss von Mitgliedern, Satzungsänderungen oder die Auflösung des Vereins, nachträglich auf die Tagesordnung gesetzt werden. Über die Annahme der Anträge beschließt die Mitgliederversammlung.
 
 
-## § 13 Beschlussfassung der Mitgliederversammlung
+## § 12 Beschlussfassung der Mitgliederversammlung
 
 (1) Die Mitgliederversammlung ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder anwesend ist. Bei Beschlussunfähigkeit lädt der Vorstand umgehend zu einer zweiten Mitgliederversammlung mit gleicher Tagesordnung ein, die nach spätestens einem Monat tagt. Diese ist zu den in der Tagesordnung aufgeführten Punkten unabhängig von der Zahl der anwesenden Mitglieder beschlussfähig, wenn darauf mit der Einladung hingewiesen wird.
 
@@ -163,23 +146,21 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 
 (7) Über die Beschlüsse der Mitgliederversammlungen sind Protokolle zu führen, die von der jeweiligen Versammlungsleitung und der Protokollführung zu unterzeichnen sind. Jedes Vereinsmitglied ist berechtigt, die Protokolle einzusehen.
 
-## § 14 Finanzen
+## § 13 Finanzen
 
 (1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Schenkungen, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen.
-Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken.
-Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
 
 (2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand.
 
 (3) Der gesamte Vorstand ist gegenüber der Mitgliederversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, woraufhin die Mitgliederversammlung über die Entlastung des Vorstands abzustimmen hat.
 
-## § 15 Auflösung des Vereins
+## § 14 Auflösung des Vereins
 
 (1) Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit der in § 14 (6) festgelegten Stimmenmehrheit beschlossen werden. Sofern die Mitgliederversammlung nichts anderes beschließt, sind die bisherigen Vorstandsmitglieder Liquidatoren des Vereins. Die vorstehenden Vorschriften gelten entsprechend für den Fall, dass der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.
 
-(2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an den "Förderverein der Fachschaft Digital Engineering an der Universität Potsdam e. V.", der es unmittelbar und ausschließlich für gemeinnützige, dieser Satzung entsprechende, Zwecke zu verwenden hat.
+(2) Bei Auflösung oder Aufhebung des Vereins den "Förderverein der Fachschaft Digital Engineering an der Universität Potsdam e. V.".
 
-## § 16 Inkrafttreten
+## § 15 Inkrafttreten
 
 Die Satzung tritt mit dem Beschluss der Gründungsversammlung in Kraft.
 
