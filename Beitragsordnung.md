@@ -1,6 +1,6 @@
 # Beitragsordnung des Bierball-Club Potsdam
 
-Stand **XX.XX.XXXX**
+Stand 28.05.2021
 
 ## Höhe der Beiträge (gestaffelt)
 
@@ -20,13 +20,13 @@ Der Mitgliedsbeitrag wird jeweils zum 1. des Monats sowie mit der Annahme des Au
 
 (1) Die Zahlung des Beitrages erfolgt monatlich auf das Konto des Bierball-Club Potsdam e.V. Es wird empfohlen, einen Dauerauftrag einzurichten.
 
-(2) Alternativ zu (1) kann nach Absprache eine Barzahlung an den Schatzmeister erfolgen.
+(2) Alternativ zu (1) kann nach Absprache eine Barzahlung an die Finanzverwaltung erfolgen.
 
 ## Säumnis
 
-Im Säumnisfall wird das Mitglied nach dreimonatigem Ausbleiben des Beitrags schriftlich gemahnt.
-Zahlt ein Mitglied trotz zweifacher Mahnung oder länger als drei Monate den Beitrag nicht, so gilt nach Ablauf eines Monates nach der zweiten Mahnung die Nichtzahlung als Austritt.
-In der zweiten Mahnung ist auf die Folgen der Nichtzahlung hinzuweisen.
+Im Säumnisfall wird das Mitglied nach zweimonatigem Ausbleiben des Beitrags schriftlich gemahnt.
+In dieser Mahnung ist auf die Folgen der Nichtzahlung hinzuweisen.
+Zahlt ein Mitglied länger als drei Monate den Beitrag nicht, kann der Vorstand das Ende der Mitgliedschaft feststellen.
 
 ## Aufnahmegebühren
 
