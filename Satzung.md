@@ -6,18 +6,18 @@ Diese Satzung wurde von der Gründungsversammlung am 28.05.2021 beschlossen.
 
 (1) Der Verein führt den Namen "Bierball-Club Potsdam", bzw. in der Kurzform "BBC Potsdam".
 
-(2) Er soll in das Vereinsregister eingetragen werden. Nach der Eintragung führt er zu seinem Namen den Zusatz "e. V."
+(2) Er soll in das Vereinsregister eingetragen werden.
+Nach der Eintragung führt er zu seinem Namen den Zusatz "e. V."
 
 (3) Der Verein hat seinen Sitz in Potsdam.
 
 (4) Das Geschäftsjahr ist das Kalenderjahr.
 
-
 ## § 2 Vereinszweck
 
 (1) Der Zweck des Vereins ist die Förderung des Bierballsports.
 
-(2) Der Satzungszweck wird verwirklicht insbesondere durch
+(2) Der Satzungszweck wird verwirklicht durch
 
 1. die Beschaffung, Erhaltung und Pflege von Sportanlagen und Sportgeräten sowie
 2. die Durchführung von sportlichen Veranstaltungen.
@@ -38,7 +38,7 @@ Die Entscheidung ist der antragstellenden Person mit einer Begründung versehen 
 
 (5) Die Mitgliedschaft beginnt mit dem Beschluss zur Aufnahme.
 
-(6) Die Mitgliederversammlung kann über den in (1) benannten Personenkreis hinaus Personen zu Ehrenmitgliedern ernennen.
+(6) Die Mitgliederversammlung kann Personen zu Ehrenmitgliedern ernennen.
 Ehrenmitglieder zählen nicht als Mitglieder des Vereins.
 Sie sind zu Mitgliederversammlungen einzuladen, haben aber kein Stimmrecht, wenn sie nicht auch ordentliche Mitglieder des Vereins sind.
 Ehrenmitglieder sind von Mitgliedsbeiträgen befreit.
@@ -64,7 +64,8 @@ Er ist jederzeit zulässig und tritt bei Bestätigung durch den Vorstand ein, sp
 Über den Ausschluss entscheidet auf Antrag des Vorstands die Mitgliederversammlung mit einer Zweidrittelmehrheit der anwesenden Mitglieder.
 Der Vorstand hat seinen Antrag dem auszuschließenden Mitglied mindestens zwei Wochen vor der Versammlung in Textform, z.B. per E-Mail, mitzuteilen.
 Eine in Textform eingehende Stellungnahme des Mitglieds ist in der über den Ausschluss entscheidenden Versammlung zu verlesen.
-Der Ausschluss des Mitglieds wird mit der Beschlussfassung wirksam. Der Ausschluss wird dem Mitglied, wenn es bei Beschlussfassung nicht anwesend war, unverzüglich durch den Vorstand bekannt gemacht.
+Der Ausschluss des Mitglieds wird mit der Beschlussfassung wirksam.
+Der Ausschluss wird dem Mitglied, wenn es bei Beschlussfassung nicht anwesend war, unverzüglich durch den Vorstand bekannt gemacht.
 
 ## § 6 Organe des Vereins
 
@@ -78,7 +79,8 @@ Die Organe des Vereins sind
 (1) Der Vorstand im Sinne des § 26 BGB besteht aus zwei gleichberechtigten vorsitzenden Personen und einer mit der Verwaltung der Finanzen beauftragten Person.
 
 (2) Der Vorstand wird vollständig aus Vereinsmitgliedern zusammengesetzt.
-Der Vorstand ist ehrenamtlich tätig. Entstehende finanzielle Aufwendungen im Rahmen der Aufgaben im Verein können vom Verein erstattet werden.
+Der Vorstand ist ehrenamtlich tätig.
+Entstehende finanzielle Aufwendungen im Rahmen der Aufgaben im Verein können vom Verein erstattet werden.
 
 (3) Der Verein wird gerichtlich durch mindestens zwei Mitglieder des Vorstands gemeinschaftlich vertreten.
 Außergerichtlich kann jedes Mitglied des Vorstands den Verein einzeln vertreten.
@@ -87,7 +89,8 @@ Außergerichtlich kann jedes Mitglied des Vorstands den Verein einzeln vertreten
 
 ## § 8 Zuständigkeiten des Vorstands
 
-Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung einem anderen Vereinsorgan zugewiesen sind. Er hat vor allem folgende Aufgaben:
+Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung einem anderen Vereinsorgan zugewiesen sind.
+Er hat vor allem folgende Aufgaben:
 
 1. Vorbereitung von Mitgliederversammlungen und Aufstellung der Tagesordnungen
 2. Einberufung von Mitgliederversammlungen
