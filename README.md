@@ -1,3 +1,3 @@
-# Bierball Club Potsdam
+# Bierball-Club Potsdam
 
-Dokumente eines eventuellen Bierball Clubs in Potsdam
+Dokumente eines eventuellen Bierball-Clubs in Potsdam
