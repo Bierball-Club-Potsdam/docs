@@ -187,11 +187,17 @@ Jedes Vereinsmitglied ist berechtigt, die Protokolle einzusehen.
 ## § 13 Finanzen
 
 (1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Schenkungen, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen.
+Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken.
+Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
 
 (2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt.
 Über die Annahme von Schenkungen entscheidet der Vorstand.
 
 (3) Der gesamte Vorstand ist gegenüber der Mitgliederversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, woraufhin die Mitgliederversammlung über die Entlastung des Vorstands abzustimmen hat.
+
+(4) Zur Finanzierung besonderer Vorhaben oder zur Beseitigung finanzieller Schwierigkeiten des Vereins können von den Mitgliedern Umlagen erhoben werden.
+Über die Notwendigkeit, Höhe und Fälligkeit von Umlagen und den Kreis der zahlungspflichtigen Mitglieder entscheidet die Mitgliederversammlung mit der einfachen Mehrheit der abgegebenen Stimmen.
+Die Höhe der Umlage darf das Sechsfache des zuletzt festgesetzten monatlichen Mitgliedsbeitrags nicht übersteigen.
 
 ## § 14 Auflösung des Vereins
 
