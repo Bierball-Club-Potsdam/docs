@@ -25,7 +25,7 @@ Sollte zu viel Flüssigkeit entweichen, kann dies mit einem Strafschluck (siehe 
 2. Ein Ziel
 3. Ein Getränkebehältnis pro spielender Person
 
-(2) Das Wurfgerät ist ein annähernd runder Gegensand, der sich leicht einhändig werfen lässt.
+(2) Das Wurfgerät ist ein annähernd runder Gegenstand, der sich leicht einhändig werfen lässt.
 
 (3) Das Ziel muss in Größe und Form einer 1,0-Liter-Plastikflasche ähneln.
 Es muss in einer Art beschwert sein (z. B. durch das Befüllen mit Wasser), dass es nicht durch leichte Krafteinwirkung, wie z. B. Windstöße umfällt.
