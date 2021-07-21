@@ -3,8 +3,8 @@
 ## Vorwort
 
 Bierball ist ein Sport, in welchem der Spaß aller Spielenden im Vordergrund steht. 
-Mitspielende und Gegner sind zu jeder Zeit mit Respekt zu behandeln.
-Von allen Mitspielenden wird Fair-Play erwartet.
+Alle Teilnehmenden sind zu jeder Zeit mit Respekt zu behandeln.
+Von allen Teilnehmenden wird Fair-Play erwartet.
 
 ## § 1 Spielziel
 
@@ -39,34 +39,37 @@ Es ist explizit erlaubt, Getränke zu konsumieren die keinen Alkohol enthalten b
 
 (1) In der Mitte des Spielfeldes wird das Ziel aufgestellt.
 
-(2) Von dort ausgehend sind in entgegengesetzte Richtung 6 m (~7 Schritte) abzumessen an denen sich die jeweiligen Grundlinien der zwei Teams befinden.
+(2) Von dort ausgehend sind in entgegengesetzte Richtung 6 m (~7 Schritte) abzumessen an denen sich die jeweiligen Grundlinien (auch "Wurflinien") der zwei Teams befinden.
 
 (3) Die Grundlinien der Teams verlaufen parallel.
 
 ## § 5 Ablauf
 
-(1) Vor Beginn entscheidet ein Münzwurf oder eine Partie Schere-Stein-Papier zwischen zwei Mitgliedern der spielenden Teams über den ersten Wurf.
+(1) Es gibt immer genau ein Team, welches versucht das Ziel mithilfe des Wurfgeräts zu Fall zu bringen ("werfendes Team") und ein Team, welches darauf reagiert ("aufstellendes Team").
+Nach jedem Wurf wird gewechselt.
+
+(2) Vor Beginn entscheidet ein Münzwurf oder eine Partie Schere-Stein-Papier zwischen zwei Mitgliedern der spielenden Teams über den ersten Wurf.
 Das gewinnende Team entscheidet, welches Team zuerst wirft.
 
-(2) Vor jedem Wurf, muss sichergestellt werden, dass das Gegnerteam bereit ist.
-Bei Missachtung dieser Regel wird der Wurf annulliert und das Wurfrecht geht an das Gegnerteam über.
+(3) Vor jedem Wurf, muss sichergestellt werden, dass das gegnerische Team bereit ist.
+Bei Missachtung dieser Regel wird der Wurf annulliert und das Wurfrecht geht an das gegnerische Team über.
 
-(3) Geworfen wird stehend und von oben, d. h. der Ball muss die Wurfhand ungefähr auf Schulterhöhe verlassen.
-Die Wurflinie darf dabei nicht übertreten werden.
-Bei Missachtung dieser Regel wird der Wurf annulliert und das Wurfrecht geht an das Gegnerteam über.
+(4) Geworfen wird stehend und von oben, d. h. der Ball muss die Wurfhand ungefähr auf Schulterhöhe verlassen.
+Die Grundlinie darf dabei nicht übertreten werden.
+Bei Missachtung dieser Regel wird der Wurf annulliert und das Wurfrecht geht an das gegnerische Team über.
 
-(4) Der Rest des werfenden Teams ist in der Wahl der Körperhaltung frei, darf die Getränkebehältnisse allerdings nicht vor Fall des Zieles berühren.
+(5) Der Rest des werfenden Teams ist in der Wahl der Körperhaltung frei, darf die Getränkebehältnisse allerdings nicht vor Fall des Zieles berühren.
 
-(5) Es ist erlaubt, seine Getränke vor Umfallen zu schützen.
+(6) Es ist erlaubt, seine Getränke vor Umfallen zu schützen.
 
-(6) Sollte das Ziel umfallen, bevor das Wurfgerät die Wurflinie des aufstellenden Teams passiert hat, darf das werfende Team mit dem Trinken beginnen.  
-Getrunken wird so lange, bis das Ziel erfolgreich aufgestellt wurde und sich alle Mitglieder des aufstellenden Teams mitsamt des Wurfgeräts hinter ihrer Wurflinie befinden.
-Der Abschluss dieses Vorgangs ist mit einem deutlich hörbaren "Stop-Ruf" anzuzeigen.  
+(7) Sollte das Ziel umfallen, bevor das Wurfgerät die Grundlinie des aufstellenden Teams passiert hat, darf das werfende Team mit dem Trinken beginnen.  
+Getrunken wird so lange, bis das Ziel erfolgreich aufgestellt wurde und sich alle Mitglieder des aufstellenden Teams mitsamt des Wurfgeräts hinter ihrer Grundlinie befinden.
+Der Abschluss dieses Vorgangs ist mit einem deutlich hörbaren "Stop"-Ruf anzuzeigen.  
 Das werfende Team muss unverzüglich alle Trinkaktionen einstellen und die Flaschen zurück auf den Boden führen.
 
 ## § 6 Strafen
 
-(1) Im Fall, dass ein Getränk überschäumt, erhält das Gegnerteam die Möglichkeit einen extra Schluck aus dem Getränkebehältnis zu nehmen ("Stafschluck").
+(1) Im Fall, dass ein Getränk überschäumt, erhält das gegnerische Team die Möglichkeit einen extra Schluck aus dem Getränkebehältnis zu nehmen ("Stafschluck").
 Es darf nur so viel getrunken werden, dass exakt eine Schluckbewegung ausgeführt wird.
 
 (2) Sollte ein Getränkebehältnis umfallen, sodass Flüssigkeit austritt, muss das Getränk vom Spielenden unverzüglich geleert werden und durch ein volles, gleichwertiges Getränkebehältnis ersetzt werden ("Strafbier").
@@ -77,9 +80,9 @@ Es darf nur so viel getrunken werden, dass exakt eine Schluckbewegung ausgeführ
 Den Anweisungen der Schiedsrichter ist Folge zu leisten.
 Zuwiderhandlungen können zum Turnierausschluss führen.
 
-(2) Außerhalb des Turnierbetriebs wird erwartet, dass sich alle Mitspielenden im Sinne des Fair-Plays auf Regelauslegungen einigen und sich dementsprechend verhalten.
+(2) Außerhalb des Turnierbetriebs wird erwartet, dass sich alle Teilnehmenden im Sinne des Fair-Plays auf Regelauslegungen einigen und sich dementsprechend verhalten.
 
 (3) In begründeten Ausnahmefällen darf von den oben genannten Regeln abgewichen werden.
-Dies bedarf der Zustimmung aller Mitspielenden.
+Dies bedarf der Zustimmung aller Teilnehmenden.
 Innerhalb des Turnierbetriebs muss auch die Turnierleitung zustimmen.
 
