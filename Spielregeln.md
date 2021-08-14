@@ -15,7 +15,7 @@ Sollte zu viel Flüssigkeit entweichen, kann dies mit einem Strafschluck (siehe 
 
 ## § 2 Teams
 
-(1) Gespielt wird mit zwei gleich großen Teams, die jeweils aus mindestens einer Person bestehen.
+Gespielt wird mit zwei gleich großen Teams, die jeweils aus mindestens einer Person bestehen.
 
 ## § 3 Spielgeräte
 
@@ -35,6 +35,8 @@ Allerdings ist sicherzustellen, dass es möglich ist, das Ziel mit dem Wurfgerä
 Die Getränke müssen Kohlensäure enthalten.
 Es ist explizit erlaubt, Getränke zu konsumieren die keinen Alkohol enthalten bzw. nicht als Bier klassifiziert werden.
 
+(5) Jede spielende Person verfügt über genau ein Getränkebehältnis und trinkt auch nur aus diesem.
+
 ## § 4 Spielfeld
 
 (1) In der Mitte des Spielfeldes wird das Ziel aufgestellt.
@@ -42,6 +44,8 @@ Es ist explizit erlaubt, Getränke zu konsumieren die keinen Alkohol enthalten b
 (2) Von dort ausgehend sind in entgegengesetzte Richtung 6 m (~7 Schritte) abzumessen an denen sich die jeweiligen Grundlinien (auch "Wurflinien") der zwei Teams befinden.
 
 (3) Die Grundlinien der Teams verlaufen parallel.
+
+(4) Das Ziel steht mittig zwischen den beiden Grundlinien.
 
 ## § 5 Ablauf
 
@@ -52,6 +56,7 @@ Nach jedem Wurf wird gewechselt.
 Das gewinnende Team entscheidet, welches Team zuerst wirft.
 
 (3) Vor jedem Wurf, muss sichergestellt werden, dass das gegnerische Team bereit ist.
+Dies geschieht durch das Heben einer Hand oder mit einem Zuruf durch das werfende Team, was vom aufstellenden Team durch ein Handheben oder einen zweiten Ruf bestätigt wird.
 Bei Missachtung dieser Regel wird der Wurf annulliert und das Wurfrecht geht an das gegnerische Team über.
 
 (4) Geworfen wird stehend und von oben, d. h. der Ball muss die Wurfhand ungefähr auf Schulterhöhe verlassen.
@@ -60,19 +65,24 @@ Bei Missachtung dieser Regel wird der Wurf annulliert und das Wurfrecht geht an 
 
 (5) Der Rest des werfenden Teams ist in der Wahl der Körperhaltung frei, darf die Getränkebehältnisse allerdings nicht vor Fall des Zieles berühren.
 
-(6) Es ist erlaubt, seine Getränke vor Umfallen zu schützen.
-
-(7) Sollte das Ziel umfallen, bevor das Wurfgerät die Grundlinie des aufstellenden Teams passiert hat, darf das werfende Team mit dem Trinken beginnen.  
+(6) Sollte das Ziel umfallen, bevor das Wurfgerät die Grundlinie des aufstellenden Teams passiert hat, darf das werfende Team mit dem Trinken beginnen.  
 Getrunken wird so lange, bis das Ziel erfolgreich aufgestellt wurde und sich alle Mitglieder des aufstellenden Teams mitsamt des Wurfgeräts hinter ihrer Grundlinie befinden.
 Der Abschluss dieses Vorgangs ist mit einem deutlich hörbaren "Stop"-Ruf anzuzeigen.  
 Das werfende Team muss unverzüglich alle Trinkaktionen einstellen und die Flaschen zurück auf den Boden führen.
 
+(7) Innerhalb eines Teams wechselt die werfende Person nach jedem Wurf, solange das Team noch über zwei oder mehr Personen verfügt, die ihr Getränk noch nicht geleert haben.
+
+(8) Personen, die ihr Getränk geleert haben, nehmen nicht mehr aktiv am Spiel teil und zählen als ausgeschieden.
+Sie dürfen für ihr Team nicht mehr werfen.
+Ist im Team nur noch eine Person im Spiel, darf diese beim Aufstellen/Wurfgerät-Holen durch genau eine weitere, aus dem Spiel ausgeschiedene Person unterstützt werden.
+
 ## § 6 Strafen
 
-(1) Im Fall, dass ein Getränk überschäumt, erhält das gegnerische Team die Möglichkeit einen extra Schluck aus dem Getränkebehältnis zu nehmen ("Stafschluck").
+(1) Im Fall, dass ein Getränk überschäumt oder anderweitig Flüssigkeit nicht im Mund der trinkenden Person landet, erhält das gegnerische Team die Möglichkeit einen extra Schluck aus dem Getränkebehältnis zu nehmen ("Stafschluck").
 Es darf nur so viel getrunken werden, dass exakt eine Schluckbewegung ausgeführt wird.
 
-(2) Sollte ein Getränkebehältnis umfallen, sodass Flüssigkeit austritt, muss das Getränk vom Spielenden unverzüglich geleert werden und durch ein volles, gleichwertiges Getränkebehältnis ersetzt werden ("Strafbier").
+(2) Ausnahme: Sollte ein Getränkebehältnis umfallen, sodass Flüssigkeit austritt, muss das Getränk vom Spielenden unverzüglich geleert werden und durch ein volles, gleichwertiges Getränkebehältnis ersetzt werden ("Strafbier").
+Es ist erlaubt, seine Getränke vor Umfallen zu schützen.
 
 ## § 7 Schlussbemerkungen
 
