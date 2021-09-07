@@ -1,3 +1,3 @@
-# Bierball-Club Potsdam
+# Bierball-Club Potsdam e.V.
 
-Dokumente eines eventuellen Bierball-Clubs in Potsdam
+Dieses Repo enthält die Satzung und die Beitragsordnung des Bierball-Club Potsdam e.V.
