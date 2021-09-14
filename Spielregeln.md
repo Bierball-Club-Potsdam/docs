@@ -31,9 +31,9 @@ Gespielt wird mit zwei gleich großen Teams, die jeweils aus mindestens einer Pe
 Es muss in einer Art beschwert sein (z. B. durch das Befüllen mit Wasser), dass es nicht durch leichte Krafteinwirkung, wie z. B. Windstöße umfällt.
 Allerdings ist sicherzustellen, dass es möglich ist, das Ziel mit dem Wurfgerät zu Fall zu bringen.
 
-(4) Getrunken wird aus Glasflaschen der 0,5-Liter-Klasse, deren Öffnung DIN EN ISO 12822 oder DIN EN ISO 12821 (handelsübliche Bierflasche mit Kronkorkenverschluss) entspricht.
+(4) Getrunken wird aus 0,5-Liter-Flaschen aus Glas oder einem anderen unelastischen Material. Die Öffnung muss einen Durchmesser von ca. 1,7 mm haben. Dies umfasst (ist aber nicht begrenzt auf) handelsübliche Bierflaschen mit Kronkorkenverschluss (NRW-Flasche, Langhalsflasche), aber auch Flaschen mit Bügelverschluss oder Schraubverschluss.
 Die Getränke müssen Kohlensäure enthalten.
-Es ist explizit erlaubt, Getränke zu konsumieren die keinen Alkohol enthalten bzw. nicht als Bier klassifiziert werden.
+Es ist explizit erlaubt, Getränke zu konsumieren, die keinen Alkohol enthalten bzw. nicht als Bier klassifiziert werden.
 
 (5) Jede spielende Person verfügt über genau ein Getränkebehältnis und trinkt auch nur aus diesem.
 
@@ -55,7 +55,7 @@ Nach jedem Wurf wird gewechselt.
 (2) Vor Beginn entscheidet ein Münzwurf oder eine Partie Schere-Stein-Papier zwischen zwei Mitgliedern der spielenden Teams über den ersten Wurf.
 Das gewinnende Team entscheidet, welches Team zuerst wirft.
 
-(3) Vor jedem Wurf, muss sichergestellt werden, dass das gegnerische Team bereit ist.
+(3) Vor jedem Wurf muss sichergestellt werden, dass das gegnerische Team bereit ist.
 Dies geschieht durch das Heben einer Hand oder mit einem Zuruf durch das werfende Team, was vom aufstellenden Team durch ein Handheben oder einen zweiten Ruf bestätigt wird.
 Bei Missachtung dieser Regel wird der Wurf annulliert und das Wurfrecht geht an das gegnerische Team über.
 
@@ -69,6 +69,7 @@ Bei Missachtung dieser Regel wird der Wurf annulliert und das Wurfrecht geht an 
 Getrunken wird so lange, bis das Ziel erfolgreich aufgestellt wurde und sich alle Mitglieder des aufstellenden Teams mitsamt des Wurfgeräts hinter ihrer Grundlinie befinden.
 Der Abschluss dieses Vorgangs ist mit einem deutlich hörbaren "Stop"-Ruf anzuzeigen.  
 Das werfende Team muss unverzüglich alle Trinkaktionen einstellen und die Flaschen zurück auf den Boden führen.
+Dabei darf der Mund auf die Öffnung der Flasche gepresst werden, um ein Austreten von Schaum zu verhindern (siehe §6 (1)). Die Öffnung muss dabei jedoch nach oben zeigen.
 
 (7) Innerhalb eines Teams wechselt die werfende Person nach jedem Wurf, solange das Team noch über zwei oder mehr Personen verfügt, die ihr Getränk noch nicht geleert haben.
 

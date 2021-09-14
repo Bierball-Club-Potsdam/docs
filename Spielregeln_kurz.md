@@ -7,4 +7,4 @@
 5. Ein Team hat gewonnen, wenn alle Getränke ausgetrunken wurden.
 6. Schäumt ein Bier über oder spritzt Bier daneben, gibt es einen Strafschluck
 7. Fällt ein Bier um, gibt es ein Strafbier.
-8. Der Schiedsrichter hat immer recht
+8. Der Schiedsrichter hat immer recht.
