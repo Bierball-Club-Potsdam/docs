@@ -45,7 +45,7 @@ Es ist explizit erlaubt, Getränke zu konsumieren, die keinen Alkohol enthalten 
 
 (3) Die Grundlinien der Teams verlaufen parallel.
 
-(4) Das Ziel steht mittig zwischen den beiden Grundlinien.
+(4) Das Ziel steht mittig vor den beiden Grundlinien.
 
 ## § 5 Ablauf
 
@@ -71,15 +71,15 @@ Der Abschluss dieses Vorgangs ist mit einem deutlich hörbaren "Stop"-Ruf anzuze
 Das werfende Team muss unverzüglich alle Trinkaktionen einstellen und die Flaschen zurück auf den Boden führen.
 Dabei darf der Mund auf die Öffnung der Flasche gepresst werden, um ein Austreten von Schaum zu verhindern (siehe §6 (1)). Die Öffnung muss dabei jedoch nach oben zeigen.
 
-(7) Innerhalb eines Teams wechselt die werfende Person nach jedem Wurf, solange das Team noch über zwei oder mehr Personen verfügt, die ihr Getränk noch nicht geleert haben.
-
-(8) Personen, die ihr Getränk geleert haben, nehmen nicht mehr aktiv am Spiel teil und zählen als ausgeschieden.
-Sie dürfen für ihr Team nicht mehr werfen.
-Ist im Team nur noch eine Person im Spiel, darf diese beim Aufstellen/Wurfgerät-Holen durch genau eine weitere, aus dem Spiel ausgeschiedene Person unterstützt werden.
+(7) Innerhalb eines Teams wechselt die werfende Person nach jedem Wurf.
 
 ## § 6 Strafen
 
-(1) Im Fall, dass ein Getränk überschäumt oder anderweitig Flüssigkeit nicht im Mund der trinkenden Person landet, erhält das gegnerische Team die Möglichkeit einen extra Schluck aus dem Getränkebehältnis zu nehmen ("Stafschluck").
+(1) In den folgenden Fällen erhält das gegnerische Team die Möglichkeit einen extra Schluck aus dem Getränkebehältnis zu nehmen ("Stafschluck"):
+- Ein Getränk schäumt über.
+- Flüssigkeit landet anderweitig nicht im Mund der trinkenden Person.
+- Ein Team hat getrunken, obwohl der Wurf ungültig war und annuliert wurde.
+
 Es darf nur so viel getrunken werden, dass exakt eine Schluckbewegung ausgeführt wird.
 
 (2) Ausnahme: Sollte ein Getränkebehältnis umfallen, sodass Flüssigkeit austritt, muss das Getränk vom Spielenden unverzüglich geleert werden und durch ein volles, gleichwertiges Getränkebehältnis ersetzt werden ("Strafbier").
