@@ -31,7 +31,7 @@ Gespielt wird mit zwei gleich großen Teams, die jeweils aus mindestens einer Pe
 Es muss in einer Art beschwert sein (z. B. durch das Befüllen mit Wasser), dass es nicht durch leichte Krafteinwirkung, wie z. B. Windstöße umfällt.
 Allerdings ist sicherzustellen, dass es möglich ist, das Ziel mit dem Wurfgerät zu Fall zu bringen.
 
-(4) Getrunken wird aus 0,5-Liter-Flaschen aus Glas oder einem anderen unelastischen Material. Die Öffnung muss einen Durchmesser von ca. 1,7 mm haben. Dies umfasst (ist aber nicht begrenzt auf) handelsübliche Bierflaschen mit Kronkorkenverschluss (NRW-Flasche, Langhalsflasche), aber auch Flaschen mit Bügelverschluss oder Schraubverschluss.
+(4) Getrunken wird aus 0,5-Liter-Flaschen aus Glas oder einem anderen unelastischen Material. Die Öffnung muss einen Durchmesser von ca. 17 mm haben. Dies umfasst (ist aber nicht begrenzt auf) handelsübliche Bierflaschen mit Kronkorkenverschluss (NRW-Flasche, Langhalsflasche), aber auch Flaschen mit Bügelverschluss oder Schraubverschluss.
 Die Getränke müssen Kohlensäure enthalten.
 Es ist explizit erlaubt, Getränke zu konsumieren, die keinen Alkohol enthalten bzw. nicht als Bier klassifiziert werden.
 
