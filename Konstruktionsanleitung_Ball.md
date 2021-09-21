@@ -22,7 +22,7 @@ Im nächsten Schritt werden 17 Kronkorken über das andere, noch offene Loch in 
 
 ### Schritt 3
 
-Im finalen Schritt wird die komplette Rolle Paketband über der Toilettenpapier abgerollt. Dabei sollte darauf geachtet werden, dass das Paketband die komplette Oberfläche des Toilettenpapiers abdeckt und das Paketband gleichmäßig verteilt wird.
+Im finalen Schritt wird die komplette Rolle Paketband über der Toilettenpapierrolle abgerollt. Dabei sollte darauf geachtet werden, dass das Paketband die komplette Oberfläche des Toilettenpapiers abdeckt und das Paketband gleichmäßig verteilt wird.
 
 Es werden zwei Abroll-Techniken empfohlen, welche abwechselnd angewandt werden können: Bei der ersten wird das Paketband in Abwickelrichtung des Toilettenpapiers aufgetragen. Kurz vor der Finalisierung gibt diese Technik dem Bierball-Ball sein unverwechselbares Aussehen. Um dem Ball gut in Form zu bringen, wird das Paketband quer zur Abwickelrichtung spiralförming abgerollt. Durch Anpassungen der Spannung des Paketbands können Unförmigkeiten reduziert werden.
 
