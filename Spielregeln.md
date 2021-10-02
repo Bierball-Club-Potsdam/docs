@@ -11,7 +11,7 @@ Von allen Teilnehmenden wird Fair-Play erwartet.
 (1) Das Spiel gilt als beendet, sobald ein Team die Getränke komplett geleert hat.
 
 (2) Ein Getränk gilt als geleert, wenn sich das Trinkbehältnis vom Spielenden mit Öffnung nach unten über den Kopf gehalten wurde, ohne dass eine nennenswerte Menge an Flüssigkeit aus dem Behältnis entweicht.
-Sollte zu viel Flüssigkeit entweichen, kann dies mit einem Strafschluck (siehe § 6 (1)) sanktioniert werden.
+Sollte zu viel Flüssigkeit entweichen, muss das Team ein weiteres Mal treffen, damit das Behältnis als geleert zählt.
 
 ## § 2 Teams
 
