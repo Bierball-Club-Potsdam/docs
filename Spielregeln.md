@@ -83,7 +83,7 @@ Dabei darf der Mund auf die Öffnung der Flasche gepresst werden, um ein Austret
 Es darf nur so viel getrunken werden, dass exakt eine Schluckbewegung ausgeführt wird.
 
 (2) Ausnahme: Sollte ein Getränkebehältnis umfallen, sodass Flüssigkeit austritt, muss das Getränk vom Spielenden unverzüglich geleert werden und durch ein volles, gleichwertiges Getränkebehältnis ersetzt werden ("Strafbier").
-Es ist erlaubt, seine Getränke vor Umfallen zu schützen.
+Es ist erlaubt, seine Getränke vor dem Umfallen zu schützen.
 
 ## § 7 Schlussbemerkungen
 
