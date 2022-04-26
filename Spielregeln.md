@@ -76,7 +76,7 @@ Dabei darf der Mund auf die Öffnung der Flasche gepresst werden, um ein Austret
 
 ## § 6 Strafen
 
-(1) In den folgenden Fällen erhält das gegnerische Team die Möglichkeit einen extra Schluck aus dem Getränkebehältnis zu nehmen ("Stafschluck"):
+(1) In den folgenden Fällen erhält das gegnerische Team die Möglichkeit einen extra Schluck aus dem Getränkebehältnis zu nehmen ("Strafschluck"):
 - Ein Getränk schäumt über.
 - Flüssigkeit landet anderweitig nicht im Mund der trinkenden Person.
 - Ein Team hat getrunken, obwohl der Wurf ungültig war und annuliert wurde.
