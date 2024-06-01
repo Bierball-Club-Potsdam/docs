@@ -8,7 +8,7 @@ Bierball is a sport where the enjoyment of all players is the main focus. All pa
 
 (1) The game is considered over as soon as one team has completely emptied their drinks.
 
-(2) A drink is considered emptied when the drinking container is held upside down over the player’s head without a significant amount of liquid escaping from the container. If liquid does escape, the team must hit the target again for the container to be considered emptied. If a larger amount of liquid escapes, additional penalties may be applied (see § 6).
+(2) A drink is considered emptied when the drinking container is held upside down over the player’s head without a significant amount of liquid leaving the container. If this is not the case, the team must hit the target again for the container to be considered emptied. If a larger amount of liquid escapes, additional penalties may be applied (see § 6).
 
 ## § 2 Teams
 
@@ -46,7 +46,7 @@ The game is played with two equally sized teams, each consisting of at least one
 
 (2) Before the game begins, a coin toss or a game of rock-paper-scissors between two members of the playing teams decides the first throw. The winning team decides which team throws first.
 
-(3) Before each throw, it must be ensured that the opposing team is ready. This is done by raising a hand or calling out by the throwing team, which the setting team confirms by raising a hand or calling out in return. If this rule is ignored, the throw is annulled, and the throwing right goes to the opposing team.
+(3) Before each throw, it must be ensured that the opposing team is ready. This is done by raising a hand or call-out by the throwing team, which the setting team confirms by raising a hand or calling out in return. If this rule is ignored, the throw is annulled, and the throwing right goes to the opposing team.
 
 (4) Throws are made standing and overhand, meaning the ball must leave the throwing hand roughly at shoulder height. The baseline must not be crossed. If this rule is ignored, the throw is annulled, and the throwing right goes to the opposing team.
 
@@ -61,7 +61,7 @@ The game is played with two equally sized teams, each consisting of at least one
 (1) In the following cases, the opposing team is allowed to take an extra sip from their drinking container ("penalty sip"):
 - A drink foams over.
 - Liquid ends up somewhere other than the mouth of the drinking person.
-- A team has drunk, although the throw was invalid and annulled.
+- A team drank, although the throw was invalid and annulled.
 
 Only as much can be drunk as to perform exactly one swallowing motion.
 
